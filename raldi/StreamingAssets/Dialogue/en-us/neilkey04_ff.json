@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "noIcon",
+        "sentence": "Man... i'm really sounding desperate here... but if only you knew what was going on just behind your view...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "Please. Listen to me and turn back while you can. Go any further and your done for.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "$neilKeysLeft$ keys left.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

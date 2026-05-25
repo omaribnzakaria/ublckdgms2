@@ -1,0 +1,54 @@
+{
+  "sentences": [
+    {
+      "character": "",
+      "sentence": "An empty machine.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "There is a note attached. It reads as follows:",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"NAME: HABIBI, HAMOOD\nMFC STATUS: COMPLETE\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"UNIVERSE: PURGATORY\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "The rest is ripped off.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+  ]
+}

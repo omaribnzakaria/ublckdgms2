@@ -1,0 +1,45 @@
+{
+  "keepMouseUnlocked": true,
+  "sentences": [
+    {
+      "character": "sans",
+      "sentence": "how did i get here?",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sanswink",
+      "sentence": "i went through the front door.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sansleft",
+      "sentence": "though i'm not technically meant to be here, but boss hired me anyway.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sanswink",
+      "sentence": "but right now, i'm on break.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+    ]
+}

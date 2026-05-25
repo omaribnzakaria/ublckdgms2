@@ -1,0 +1,44 @@
+{
+  "sentences": [
+      {
+        "character": "noIcon",
+        "sentence": "Oh.. so you REALLY like ignoring me, huh? I KNOW WHAT YOUR DOING. I TRIED TO BE THE NICE GUY. BUT YOU LEFT ME NO CHOICE.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "...",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "...",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "All keys collected.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

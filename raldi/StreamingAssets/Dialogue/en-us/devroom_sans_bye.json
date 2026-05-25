@@ -1,0 +1,14 @@
+{
+  "sentences": [
+      {
+        "character": "sanswink",
+        "sentence": "nice meeting ya.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "Looks like you found a test dialogue. There's nothing special...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "It's a just a test of text dialogue box. Again nothing special...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "Test Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test TestTest Test Test.........................%txslow%......... That's the end...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": ".. ,
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Crypto_Luigi",
+        "sentence": "this is a test dialogue, ",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Crypto_Luigi",
+        "sentence": "nothing special",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Walter H. White",
+        "sentence": "yeah",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Walter H. White",
+        "sentence": "nothing special, just quit.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "Hey! That's the end of dialogue! This was a test dialogue, ",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "of nothing... bye.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "oh you doesn't want to quit?",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "okay. do you buy my potatoes?",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "* You saying that you doesn't have enough money",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "oh.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Ishaan",
+        "sentence": "okay. that's is a soon, I am going to kill you now! I're repeat, I am going to murder you! So you should probably start running!AUAUAUAUAUAUAUAUAUAUA!",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": "enough",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Neil",
+        "sentence": ". so time to ... %txslow% end this game now, and quit it. there's nothing special. just an another stupid GAME. THERE'S NOTHING LEFT TO YOU DO HERE. JUST QUIR AS THIS POSSIBLE.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "* You was answered that neil made a mistake.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "... %txslow% AND? ARE THAT MEANS THAT YOU WON'T QUIT? OKAY JUST QUIT NOW...",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "%txslow%quit.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

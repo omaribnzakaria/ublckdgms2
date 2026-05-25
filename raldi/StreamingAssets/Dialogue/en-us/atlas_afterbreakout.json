@@ -1,0 +1,84 @@
+{
+  "sentences": [
+    {
+      "character": "Crypto Luigi",
+      "sentence": "OH.. FINALLY..",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Crypto Luigi",
+      "sentence": "I'M FREE!!",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Crypto Luigi",
+      "sentence": "Thanks to you, I'VE ESCAPED THEM!",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Crypto Luigi",
+      "sentence": "WELL DONE.",
+      "isRight": true,
+      "keepOriginalText": true,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Crypto Luigi",
+      "sentence": "well it seems like we can now PEACEFULLY part our ways.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Crypto Luigi",
+      "sentence": "here, have your ETH back. I already duped it.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "You got <color=#8A92B2>10 ETH.<color=#FFF>",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Crypto Luigi",
+      "sentence": "anyhow, let's just say.. I WON'T NEED YOU ANYMORE!",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+  ]
+}

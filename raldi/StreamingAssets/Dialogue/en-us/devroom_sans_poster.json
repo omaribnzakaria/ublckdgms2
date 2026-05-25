@@ -1,0 +1,55 @@
+{
+  "keepMouseUnlocked": true,
+  "sentences": [
+    {
+      "character": "sansleft",
+      "sentence": "that poster over there?",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sans",
+      "sentence": "that's for those 6 knuckleheads that i talked about earlier.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sansleft",
+      "sentence": "anyways, its been quiet ever since they were kicked out.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sansleft",
+      "sentence": "boss put up that poster just in case they tried to come back.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sanswink",
+      "sentence": "never again.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+    ]
+}

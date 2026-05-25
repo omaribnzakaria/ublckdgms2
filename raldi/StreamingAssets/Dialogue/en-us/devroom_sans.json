@@ -1,0 +1,55 @@
+{
+  "keepMouseUnlocked": true,
+  "sentences": [
+      {
+        "character": "sans",
+        "sentence": "heya.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "sansleft",
+        "sentence": "you that player guy?",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "sanswink",
+        "sentence": "boss has told me a lot about you.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "sans",
+        "sentence": "well hey. i'm sans. sans the skeleton.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "sansleft",
+        "sentence": "i'm the janitor around here.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "The dog is not in the mood for pets.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "He feels like.. something's up.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

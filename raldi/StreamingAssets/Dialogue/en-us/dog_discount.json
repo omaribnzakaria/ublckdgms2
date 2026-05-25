@@ -1,0 +1,14 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "The dog is satisfied with your pets! The price of <color=#FFFF00>{machine}'s<color=#FFF> has gone down <color=#FFFF00>{discount}<color=#FFF>!",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

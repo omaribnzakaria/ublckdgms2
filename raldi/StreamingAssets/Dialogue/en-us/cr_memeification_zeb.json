@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "character": "",
+      "sentence": "Seems like some sort of machine.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "There is a note attached. It reads as follows:",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"NAME: EMOJI, ZEBRA\nMFC STATUS: COMPLETED\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"UNIVERSE: %@#$($#%#$(%I@\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "ADDITIONAL: Not Cano-",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "The rest is ripped off.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "Silent",
+        "sentence": "...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Silent",
+        "sentence": "..oh? hey there..",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "Silent",
+        "sentence": "..c-could you by chance help me out, and talk for a bit?",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

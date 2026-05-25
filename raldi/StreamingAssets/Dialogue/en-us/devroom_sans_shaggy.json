@@ -1,0 +1,56 @@
+
+{
+  "keepMouseUnlocked": true,
+  "sentences": [
+    {
+      "character": "sansleft",
+      "sentence": "the shaggy guy?",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sanswink",
+      "sentence": "that's ronshaggy.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sans",
+      "sentence": "me and him are good friends.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sansleft",
+      "sentence": "he's the first guy to arrive here, along with his group.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "sans",
+      "sentence": "he's cool, nothing much else worth mentioning.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+    ]
+}

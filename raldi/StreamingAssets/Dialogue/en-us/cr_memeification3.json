@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "character": "",
+      "sentence": "An empty machine.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "There is a note attached. It reads as follows:",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"NAME: ANOMALY\nMFC STATUS: UNKNOWN\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"UNIVERSE: UNKNOWN\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"WARNING: HE'S ESCAPED THE CONFINES OF THE SIMULATION. HE DEFYS THE RULES OF-\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "The rest is ripped off.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+  ]
+}

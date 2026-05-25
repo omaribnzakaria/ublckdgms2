@@ -1,0 +1,74 @@
+{
+  "sentences": [
+    {
+      "character": "Silent",
+      "sentence": "Welcome to Atlas Earth! We hope you enjoy your stay.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Silent",
+      "sentence": "There are a couple new things added around the Meta Crackhouse!",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Silent",
+      "sentence": "If you go to Raldi's bank, there will be a New ATM!",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Silent",
+      "sentence": "There also is a guy wanting to trade, behind a badly disguised door.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Silent",
+      "sentence": "One more thing, if you pause the game, you will see your time since your last save.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Silent",
+      "sentence": "That means you can leave, then come back at any time you like!",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "Silent",
+      "sentence": "Well, go ahead and go nuts!",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+  ]
+}

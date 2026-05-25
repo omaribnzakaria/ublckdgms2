@@ -1,0 +1,34 @@
+{
+  "sentences": [
+      {
+        "character": "",
+        "sentence": "You take a poop in <color=#FFFF00>MRBEAST's Golden Toilet.<color=#FFF>",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "You feel very,",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "",
+        "sentence": "very relieved.",
+        "isRight": true,
+        "keepOriginalText": true,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

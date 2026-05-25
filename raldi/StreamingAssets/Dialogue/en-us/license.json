@@ -1,0 +1,84 @@
+{
+  "sentences": [
+      {
+        "character": "noIcon",
+        "sentence": "* You found a license.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "Text on this license means: Decompile was created by © IvanLom Studios, All rights reserved. if you're using this decompile you MUST CREDIT ME.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "* You dropped license in trash.",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "%txslow%Y o u  m u s t n ' t  d o  t h a t . . .",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "%txslow%...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "%txslow%...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "%txslow%...",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      },
+      {
+        "character": "noIcon",
+        "sentence": "%txslow% Y o u  m u s t n ' t  d o  t h.. a......... ttttttttt........................",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}

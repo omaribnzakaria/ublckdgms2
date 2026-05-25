@@ -1,0 +1,54 @@
+{
+  "sentences": [
+    {
+      "character": "",
+      "sentence": "Seems like some sort of machine.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "There is a note attached. It reads as follows:",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"NAME: JOHN, SCATMAN\nMFC STATUS: IN-PROGRESS\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "\"UNIVERSE: EARTH\"",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    },
+    {
+      "character": "",
+      "sentence": "The rest is ripped off.",
+      "isRight": true,
+      "keepOriginalText": false,
+      "showOptions": false,
+      "options": [
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "sentences": [
+      {
+        "character": "Neil_Dev22",
+        "sentence": "I'm ishaan! Would you like buy a potato?",
+        "isRight": true,
+        "keepOriginalText": false,
+        "showOptions": false,
+        "options": [
+
+        ]
+      }
+    ]
+}
