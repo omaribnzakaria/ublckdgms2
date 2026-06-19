@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <style>body, html { margin: 0; padding: 0; }</style>
+    </head>
+    <body>
+        <div id="game"></div>
+
+        <script>
+            // 1. Logic to stitch the files
+            async function serveCombinedFile(urls) {
+                const blobs = await Promise.all(urls.map(url => fetch(url).then(r => r.blob())));
+                const finalBlob = new Blob(blobs, { type: 'application/octet-stream' });
+                
+                // Send to the Service Worker
+                if (navigator.serviceWorker.controller) {
+                    navigator.serviceWorker.controller.postMessage({
+                        type: 'SET_BLOB',
+                        filename: 'fullfile.nds',
+                        blob: finalBlob
+                    });
+                }
+                return true; // Done
+            }
+
+            // 2. Main initialization sequence
+            async function start() {
+                // Register the Service Worker
+                if ('serviceWorker' in navigator) {
+                    await navigator.serviceWorker.register('service-worker.js');
+                    await navigator.serviceWorker.ready;
+                }
+
+                // Stitch the files
+                await serveCombinedFile(['part_0', 'part_1']);
+
+                // 3. NOW set the variables
+                window.EJS_player = "#game";
+                window.EJS_core = "nds";
+                window.EJS_gameUrl = "fullfile.nds";
+                window.EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
+
+                // 4. NOW inject the loader
+                const script = document.createElement("script");
+                script.src = "https://cdn.emulatorjs.org/stable/data/loader.js";
+                document.body.appendChild(script);
+            }
+
+            start();
+        </script>
+    </body>
+</html>
