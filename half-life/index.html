@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loading</title>
+    <style>
+        canvas {
+            width: 100vw;
+            height: 100vh;
+            top: 0;
+            left: 0;
+            position: fixed;
+        }
+
+        body {
+            margin: 0;
+        }
+    </style>
+    <script src="raw.js"></script>
+</head>
+<body>
+<canvas id="canvas"></canvas>
+<script type="module">
+    import { openDB } from 'https://unpkg.com/idb?module';
+    import JSZip from 'https://cdn.skypack.dev/jszip@3.10.1';
+
+    async function stitchfiles(urls) {
+        const blobs = await Promise.all(urls.map(url => fetch(url).then(r => r.blob())));
+        const finalBlob = new Blob(blobs, { type: 'application.zip' });
+        var final = URL.createObjectURL(finalBlob);
+        return final;
+    }
+
+    async function main() {
+        const db = await openDB('XashCache', 1, {
+            upgrade(db) { db.createObjectStore('assets'); }
+        });
+        let files = await db.get('assets', 'files_bundle');
+        const extras = await (await fetch('./extras.pk3')).arrayBuffer()
+
+        if (!files){
+            files = {};
+            console.log("IndexDB has no cache, creating cache now, if you are reading this then contact me in https://omaribnzakaria.github.io")
+            const resurl = await stitchfiles(['part_0', 'part_1', 'part_2']);
+            const res = await fetch(resurl)
+            const zip = await JSZip.loadAsync(await res.arrayBuffer());
+
+            await Promise.all(Object.keys(zip.files).map(async p => {
+                const file = zip.files[p]
+                if (file.dir) return;
+
+                const path = `/rodir/${p}`;
+
+                files[path] = await file.async("uint8array")
+        }))
+        await db.put('assets', files, 'files_bundle');
+        } else {
+            console.log("IndexDB working & loading, if you are reading this then contact me in https://omaribnzakaria.github.io")
+        }
+        
+
+        Xash3D({
+            arguments: ['-windowed', '-ref', 'webgl2'],
+            canvas: document.getElementById('canvas'),
+            dynamicLibraries: [
+                "filesystem_stdio.wasm",
+                "libref_webgl2.wasm",
+                "cl_dlls/menu_emscripten_wasm32.wasm",
+                "dlls/hl_emscripten_wasm32.wasm",
+                "cl_dlls/client_emscripten_wasm32.wasm",
+            ],
+            onRuntimeInitialized: function () {
+                Object.keys(files)
+                    .forEach(k => {
+                        const dir = k.split('/')
+                            .slice(0, -1)
+                            .join('/');
+                        this.FS.mkdirTree(dir);
+                        this.FS.writeFile(k, files[k]);
+                    })
+                this.FS.writeFile('/rodir/valve/extras.pk3', new Uint8Array(extras));
+                this.FS.chdir('/rodir')
+                this.FS.mkdir('/rwdir')
+            },
+            locateFile: (p) => {
+                switch (p) {
+                    case 'xash.wasm':
+                        return './xash.wasm'
+                    case 'filesystem_stdio.wasm':
+                        return './filesystem_stdio.wasm'
+                    case 'libref_webgl2.wasm':
+                        return './libref_webgl2.wasm'
+                    case 'cl_dlls/menu_emscripten_wasm32.wasm':
+                        return './menu_emscripten_wasm32.wasm'
+                    case 'dlls/hl_emscripten_wasm32.wasm':
+                        return './hl_emscripten_wasm32.wasm'
+                    case 'cl_dlls/client_emscripten_wasm32.wasm':
+                        return './client_emscripten_wasm32.wasm'
+                    default:
+                        return p
+                }
+            },
+        })
+    }
+
+    main()
+</script>
+</body>
+</html>
